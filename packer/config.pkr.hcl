@@ -5,7 +5,7 @@ packer {
       source  = "github.com/hashicorp/proxmox"
     }
     ansible = {
-      version = "~> 1.1.1"
+      version = "~> 1.1.2"
       source  = "github.com/hashicorp/ansible"
     }
   }
