@@ -2,11 +2,9 @@
 Description XXX.
 
 # Scripts:
-[Packer](packer/ "Packer")
+[Packer](packer/README.md "Packer")
 
-[Terraform](terraform/ "Terraform")
-
-[Ansible](ansible/ "Ansible")
+[Ansible](ansible/README.md "Ansible")
 
 # Links:
 
@@ -16,6 +14,6 @@ Description XXX.
 
 [MIT](LICENSE "MIT License")
 
-# Created by: 
+# Created by:
 
 1. Luciano Sampaio.
