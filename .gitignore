@@ -1,5 +1,6 @@
 # Cache objects
 packer_cache/
+manifest.json
 
 # Crash log
 crash.log
@@ -16,6 +17,3 @@ crash.log
 # Terraform hidden files should not be committed to Git.
 *.terraform*
 *.tfstate*
-
-# This project has a dynamic hosts file, so it keeps changing.
-hosts

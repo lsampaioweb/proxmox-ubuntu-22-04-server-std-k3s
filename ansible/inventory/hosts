@@ -1,0 +1,12 @@
+[ControlMachine]
+localhost ansible_connection=local
+
+[home]
+edge-pve-[01:02]
+
+[homelab]
+pve-[01:07]
+
+[testing]
+# For testing
+test-server ansible_host=<ip>
